@@ -1,0 +1,11 @@
+#generate{
+    background-color: black;
+    color: aliceblue;
+}
+#generate:active{
+    transform : scale(0.97);
+}
+
+div{
+    display: inline-block;
+}
